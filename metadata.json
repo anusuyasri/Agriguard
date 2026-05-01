@@ -1,0 +1,14 @@
+{
+  "name": "AgriGuard",
+  "description": "AI-powered crop health assistant with multimodal disease detection, weather context, and expert treatment plans.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI Disease Detection",
+    "Multimodal Analysis",
+    "Weather Advisory",
+    "Multilingual Voice Support"
+  ]
+}
